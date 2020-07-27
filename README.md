@@ -40,6 +40,29 @@ each other. Thus, the aim of current project is to build AI Bot for starcraft ga
 
 # Results
 
+The left one is computer and right is AI Bot.
+
+1. Collecting Resources (minerals)
+
+![1](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/collecting_minerals.JPG)
+
+2. Building Workers and Building Pylons
+
+![2](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/build%20pylons.JPG)
+
+3. Expanding Resource Area and Collecting Resources (Gas)
+
+![3](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/assimilator.JPG)
+
+4. Building AI Army
+
+![4](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/build%20ARMY.JPG)
+
+5. Commanding AI Army
+
+![5](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/attacking.JPG)
+
+**Note :** For more implementation details, please go through [StarCraft II : Computer Vs AI-Bot](https://medium.com/@Devashi_Choudhary/starcraft-ii-computer-vs-ai-bot-2457fc222216)
 
 # Contributors
 
