@@ -62,6 +62,8 @@ The left one is computer and right is AI Bot.
 
 ![5](https://github.com/Devashi-Choudhary/StarCraft-Computer-Vs-AI-Bot/blob/master/ReadMe_Images/attacking.JPG)
 
+[Complete Video](https://www.youtube.com/watch?v=2LmUWSywO1w)
+
 **Note :** For more implementation details, please go through [StarCraft II : Computer Vs AI-Bot](https://medium.com/@Devashi_Choudhary/starcraft-ii-computer-vs-ai-bot-2457fc222216)
 
 # Contributors
