@@ -20,7 +20,7 @@ each other. Thus, the aim of current project is to build AI Bot for starcraft ga
 
 1. First, you need to download the [StarCraft II](https://www.blizzard.com/en-us/download) game. You need to signup for an account then you can download it and install the game. If you installed StarCraft II to a custom directory/drive, then you need to go to sc2/paths.py, and change the basedir value to match yours. 
 2. Make sure you have the correct version of [Python](https://www.python.org/downloads/windows/) installed on your machine. This code runs on Python 3.6 above.
-3. Now you need to install [python-sc2](https://github.com/Dentosal/python-sc2), which is an easy-to-use library for writing AI Bots for StarCraft II in Python 3. There's also [pysc2](https://github.com/deepmind/pysc2#:~:text=Get%20StarCraft%20II,the%20API%2C%20which%20is%203.16.), which is DeepMind's Python library, but it is more suitable most likely for deep-learning bots. We have used sc2 for our project. You can install by running the following command on terminal
+3. Now you need to install [python-sc2](https://github.com/Dentosal/python-sc2), which is an easy-to-use library for writing AI Bots for StarCraft II in Python 3. There's also [pysc2](https://github.com/deepmind/pysc2#:~:text=Get%20StarCraft%20II,the%20API%2C%20which%20is%203.16.), which is [DeepMind's](https://deepmind.com/) Python library, but it is more suitable most likely for deep-learning bots. We have used sc2 for our project. You can install by running the following command on terminal
 
 `pip install sc2`
 
